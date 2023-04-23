@@ -1,0 +1,7 @@
+.container>ul>li>p{
+    font-size: 1.3em;
+}
+.container>p:last-child{
+    font-style: italic;
+    color: #666;
+}

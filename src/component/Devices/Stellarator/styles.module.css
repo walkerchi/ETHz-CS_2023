@@ -1,0 +1,11 @@
+.container img{
+    height: 40vh;;   
+}
+.container p:nth-child(2){
+    font-size: 0.7em;
+}
+.container p:nth-child(3), .contiainer p:nth-child(4){
+    margin:5px;
+    color:#666;
+    font-style:italic
+}

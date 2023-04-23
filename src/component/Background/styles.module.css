@@ -1,0 +1,15 @@
+.container{
+    position:relative;
+}
+.container strong{
+    font-size: 1em;
+    text-align: left;
+}
+.section{
+    position: absolute; 
+    left: 50px;
+    bottom: 0px;
+    font-weight: bolder;
+    font-style:italic;
+    color: #555;
+}

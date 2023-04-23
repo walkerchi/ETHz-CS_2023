@@ -1,0 +1,10 @@
+.container h2{
+    font-size:32px;
+}
+.container p:nth-child(2){
+    color: #666;
+    font-style: italic;
+}
+.container img{
+    height: 40vh;
+}

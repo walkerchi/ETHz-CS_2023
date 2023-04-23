@@ -1,0 +1,10 @@
+.container p:first-child{
+    font-size: 1em;
+}
+.container p:last-child{
+    margin-top:40px;
+    font-size: 0.7em;
+    text-align: right;
+    font-style:italic;
+    color:#555;
+}

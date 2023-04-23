@@ -1,0 +1,9 @@
+.container{
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.container iframe{
+    margin:20px;
+}

@@ -1,0 +1,20 @@
+.logo{
+  position: absolute;
+  left:100px;
+  top:40px;
+}
+
+.container p, .container ul{
+  font-size:20px;
+}
+.container h3{
+  font-size: 20px;
+  text-align: left;
+}
+.container table{
+  font-size:20px;
+}
+.contianer img{
+  object-fit: cover;
+  object-position: center center;
+}
