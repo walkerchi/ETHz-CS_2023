@@ -1,18 +1,20 @@
 import React from 'react';
 import { useEffect,useRef,useState } from 'react';
 import styles from "./styles.module.css"
-import * as ReactDom from 'react-dom'
+import Qr2022 from "../../images/ethz-case-study-2022.png"
+import Qr2023 from "../../images/ethz-case-study-2023.png"
+
 
 function QRCode(){
     console.log(styles)
     return (
         <div className={styles['qr-container']}>
             <div>
-                <img src="https://walkerchi.github.io/ETHz-CaseStudy-2022/url.png" alt="space elevator"/>
+                <img src={Qr2022} alt="space elevator"/>
                 <div> space elevator (Case Study 2022) </div>
             </div>
             <div>
-                <img src="https://walkerchi.github.io/ETHz-CaseStudy-2022/url.png" alt="fusion" />
+                <img src={Qr2023} alt="fusion" />
                 <div> nuclear fusion (Case Study 2023) </div>
             </div>
         </div>

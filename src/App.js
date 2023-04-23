@@ -2,6 +2,8 @@ import { useEffect } from 'react';
 import Reveal from 'reveal.js';
 import Markdown from 'reveal.js/plugin/markdown/markdown.esm.js';
 import RevealMath from 'reveal.js/plugin/math/math.esm.js';
+import RevealChalkboard from 'reveal.js-plugins/chalkboard/plugin.js';
+import RevealCustomControls from 'reveal.js-plugins/customcontrols/plugin.js';
 import Front from "./component/Front";
 import End from "./component/End";
 import Introduction from "./component/Introduction";
@@ -25,7 +27,7 @@ import ETHLogo from "./svg/ethz"
 import styles from "./App.module.css";
 
 function renderPages(data){
-  console.log(data)
+ 
   return data.map((item, index)=>{
     // if type is not in item, return the default page
     if(!item.type){
@@ -94,7 +96,9 @@ function App() {
       },
       plugins: [ 
       Markdown,
-      RevealMath.KaTeX 
+      RevealMath.KaTeX ,
+      RevealChalkboard,
+      RevealCustomControls 
     ]
    })
    deck.initialize();
