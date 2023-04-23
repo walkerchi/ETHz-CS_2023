@@ -1,0 +1,8 @@
+## Reference
+
+> 1. [Artsimovich, L. 1972. Tokamak devices. *Nuclear Fusion, 12*(2), p.215.](https://iopscience.iop.org/article/10.1088/0029-5515/12/2/012/meta?casa_token=j5bPtdykrdcAAAAA:T1I5SRh06A9e2RgTJUuoi20WwA5wNJiZXGvzK7Du-KZpWgTGTIlF2y8XB1hZEffsj78ClGU8vQ)
+> 2. [Hamacher, T. and Bradshaw, A.M., 2001. Fusion as a future power source: recent achievements and prospects. In *18th world energy congress*.](https://pure.mpg.de/rest/items/item_2138773/component/file_2138772/content)
+> 3. [Aymar, R., Barabaschi, P. and Shimomura, Y., 2002. The ITER design. *Plasma physics and controlled fusion*, *44*(5), p.519.](https://iopscience.iop.org/article/10.1088/0741-3335/44/5/304/meta?casa_token=R9MU30jBEOUAAAAA:Sr8wuDU9vw8bZjIJE82xTankouxkB_TJzNgSTY1BfT7QGD3YaIgO3-PdEOVYt_77wcHq8xEgWg)
+> 4. [Spitzer Jr, L., 1958. The stellarator concept. *The Physics of Fluids*, *1*(4), pp.253-264.](https://pubs.aip.org/aip/pfl/article/1/4/253/941214/The-Stellarator-Concept)
+> 5. [Bodin, H.A.B. and Newton, A.A., 1980. Reversed-field-pinch research. *Nuclear fusion*, *20*(10), p.1255.](https://iopscience.iop.org/article/10.1088/0029-5515/20/10/006/meta?casa_token=KwKkZZkIhrUAAAAA:PINcDKfyUMuEGN8QqExEdj_2REmkhy9hvtR3JeMVfvzJ_K5Qf3SIRQAgBQs5pUBIbXrG1pGbeg)
+> 6. [Shumlak, U., 2020. Z-pinch fusion. *Journal of Applied Physics*, *127*(20), p.200901.](https://pubs.aip.org/aip/jap/article/127/20/200901/157297/Z-pinch-fusion)
