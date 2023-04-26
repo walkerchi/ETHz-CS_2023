@@ -36,7 +36,7 @@ export default function FrontPage({markdown}){
             ref = {ref}
             >
 
-            <h1>Infinite Energy is closer than you think</h1>
+            <h1>Fusion Power is closer than you think</h1>
             <center>Chi.Mingyuan</center>
             <QRCode/>
                 
