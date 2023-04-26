@@ -6,8 +6,8 @@ import App from './App';
 import "reveal.js/dist/reveal.css";
 import "reveal.js/dist/theme/white.css"
 import "reveal.js-plugins/chalkboard/style.css"
-import "reveal.js-plugins/customcontrols/style.css"
-import "./fontawesome.css"
+import "reveal.js-plugins/menu/font-awesome/css/fontawesome.css"
+import "reveal.js-plugins/menu/font-awesome/css/all.css"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

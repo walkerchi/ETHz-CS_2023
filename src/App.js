@@ -1,9 +1,9 @@
-import { useEffect } from 'react';
+import { useEffect, useCallback } from 'react';
 import Reveal from 'reveal.js';
 import Markdown from 'reveal.js/plugin/markdown/markdown.esm.js';
 import RevealMath from 'reveal.js/plugin/math/math.esm.js';
-import RevealChalkboard from 'reveal.js-plugins/chalkboard/plugin.js';
-import RevealCustomControls from 'reveal.js-plugins/customcontrols/plugin.js';
+import RevealNotes from 'reveal.js/plugin/notes/notes.esm.js';
+import Chalkboard from 'reveal.js-plugins/chalkboard/plugin.js';
 import Front from "./component/Front";
 import End from "./component/End";
 import Introduction from "./component/Introduction";
@@ -21,6 +21,8 @@ import TokVideo from "./component/Tokamak/Video";
 import Conclusion from "./component/Conclusion";
 import DefaultSection from './component/DefaultSection';
 import DefaultPage from './component/DefaultSection/DefaultPage';
+
+import { ChalkBoardConfig } from "./ChalkBoardConfig.js";
 
 import data from "./pages/data";
 import ETHLogo from "./svg/ethz"
@@ -57,7 +59,7 @@ function renderPages(data){
 function renderSections(data){
  
   return data.map((item, index)=>{
-    console.log(item)
+    // console.log(item)
     if(item.section === "front"){
       return <Front key={index}/>
     } else if(item.section === "end"){
@@ -80,28 +82,35 @@ function renderSections(data){
 
 
 function App() {
+
   useEffect(()=>{
-    let deck = new Reveal({
-      katex: {
-        // local:'node_modules/katex',
-        version:"0.16.6",
-        delimiters: [
-          {left: '$$', right: '$$', display: true},
-          {left: '$', right: '$', display: false},
-          {left: '\\(', right: '\\)', display: false},
-          {left: '\\[', right: '\\]', display: true}
-       ],
-       extensions:['mhchem'],
-       ignoredTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-      },
-      plugins: [ 
-      Markdown,
-      RevealMath.KaTeX ,
-      RevealChalkboard,
-      RevealCustomControls 
-    ]
-   })
-   deck.initialize();
+      console.log(window.RevealChalkboard)
+      Reveal.configure({
+        showNotes: 'separate-page'
+      })
+      let deck = new Reveal({
+        katex: {
+          // local:'node_modules/katex',
+          version:"0.16.6",
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false},
+            {left: '\\[', right: '\\]', display: true}
+         ],
+         extensions:['mhchem'],
+         ignoredTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+        },
+        chalkboard: ChalkBoardConfig,
+        plugins: [ 
+        Markdown,
+        RevealMath.KaTeX ,
+        RevealNotes,
+        window.RevealChalkboard,
+      ]
+     })
+     deck.initialize();
+   
   },[])
 
   return (

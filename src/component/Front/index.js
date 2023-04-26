@@ -9,14 +9,14 @@ function QRCode(){
     console.log(styles)
     return (
         <div className={styles['qr-container']}>
-            <div>
+            <a href="https://walkerchi.github.io/ETHz-CaseStudy-2022">
                 <img src={Qr2022} alt="space elevator"/>
-                <div> space elevator (Case Study 2022) </div>
-            </div>
-            <div>
+                <div > space elevator (Case Study 2022) </div>
+            </a>
+            <a href="https://walkerchi.github.io/ETHz-CaseStudy-2023">
                 <img src={Qr2023} alt="fusion" />
                 <div> nuclear fusion (Case Study 2023) </div>
-            </div>
+            </a>
         </div>
     )
 }
