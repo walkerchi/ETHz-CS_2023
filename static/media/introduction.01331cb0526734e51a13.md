@@ -1,5 +1,7 @@
 <div class="r-stack">
 
+larmor precession
+
 ![img](https://s2.loli.net/2023/04/22/fP1BbUDu29qJOAn.png) <!-- .element: class="fragment fade-out" -->
 
 ![img](https://s2.loli.net/2023/04/22/H2wiABZmFXoSc3h.png) <!-- .element: class="fragment fade-in" -->

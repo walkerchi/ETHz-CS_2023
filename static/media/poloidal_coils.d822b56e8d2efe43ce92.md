@@ -2,6 +2,8 @@
 
 control the section shape of the plasma
 
+the higher the energy of plasma, the bigger the volume.
+
 <div class="r-stack">
 
 ![img](https://s2.loli.net/2023/04/22/VX5JLrk73vjxUge.png)<!-- .element: class="fragment fade-out" -->

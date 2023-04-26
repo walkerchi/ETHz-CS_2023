@@ -1,8 +1,10 @@
 ## Development
 
-- ### JET
-  $Q = 0.65$
-  
+### JET $Q = 0.65$ 
+### JT-60 $Q=1.2$
+
+H-mode
+
 <div class="r-stack">
 
 ![img](https://s2.loli.net/2023/04/23/NEsL8eJOkrbnCGp.png)<!-- .element: class="fragment fade-out" -->

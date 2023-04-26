@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ETHz-CaseStudy-2023/static/css/main.3aa2d10d.css",
-    "main.js": "/ETHz-CaseStudy-2023/static/js/main.62b16bd4.js",
+    "main.css": "/ETHz-CaseStudy-2023/static/css/main.82e4dfe7.css",
+    "main.js": "/ETHz-CaseStudy-2023/static/js/main.b95e9ee0.js",
     "static/media/fa-brands-400.svg": "/ETHz-CaseStudy-2023/static/media/fa-brands-400.685e1ce252908370c3e6.svg",
     "static/media/fa-solid-900.svg": "/ETHz-CaseStudy-2023/static/media/fa-solid-900.b50094246aff1f4af1ac.svg",
     "static/media/source-sans-pro-regular.ttf": "/ETHz-CaseStudy-2023/static/media/source-sans-pro-regular.45c54810910de71280ab.ttf",
@@ -43,17 +43,18 @@
     "static/media/central_solennoid_coils.md": "/ETHz-CaseStudy-2023/static/media/central_solennoid_coils.9aa2851567a616dd81cb.md",
     "static/media/video.md": "/ETHz-CaseStudy-2023/static/media/video.fe195654948f728554a7.md",
     "static/media/divertor.md": "/ETHz-CaseStudy-2023/static/media/divertor.d545a7d601e6d0da71cd.md",
+    "static/media/poloidal_coils.md": "/ETHz-CaseStudy-2023/static/media/poloidal_coils.d822b56e8d2efe43ce92.md",
     "static/media/helion.md": "/ETHz-CaseStudy-2023/static/media/helion.f3e9c7abb88c629b43a5.md",
-    "static/media/poloidal_coils.md": "/ETHz-CaseStudy-2023/static/media/poloidal_coils.3ead010d4903d089d8ae.md",
+    "static/media/development.md": "/ETHz-CaseStudy-2023/static/media/development.bbfe6f161a0610c15c44.md",
     "static/media/general_fusion.md": "/ETHz-CaseStudy-2023/static/media/general_fusion.6f1ab16e33987b58ae67.md",
     "static/media/motto.md": "/ETHz-CaseStudy-2023/static/media/motto.79df24d138fe66406742.md",
-    "static/media/development.md": "/ETHz-CaseStudy-2023/static/media/development.6e9286248e2e1077f275.md",
-    "static/media/challenges.md": "/ETHz-CaseStudy-2023/static/media/challenges.319fac3ecb260eb9c979.md",
-    "main.3aa2d10d.css.map": "/ETHz-CaseStudy-2023/static/css/main.3aa2d10d.css.map",
-    "main.62b16bd4.js.map": "/ETHz-CaseStudy-2023/static/js/main.62b16bd4.js.map"
+    "static/media/challenges.md": "/ETHz-CaseStudy-2023/static/media/challenges.55b8681f743234c577d5.md",
+    "static/media/binding_energy.md": "/ETHz-CaseStudy-2023/static/media/binding_energy.6d6f6ebc42fd8105cdc3.md",
+    "main.82e4dfe7.css.map": "/ETHz-CaseStudy-2023/static/css/main.82e4dfe7.css.map",
+    "main.b95e9ee0.js.map": "/ETHz-CaseStudy-2023/static/js/main.b95e9ee0.js.map"
   },
   "entrypoints": [
-    "static/css/main.3aa2d10d.css",
-    "static/js/main.62b16bd4.js"
+    "static/css/main.82e4dfe7.css",
+    "static/js/main.b95e9ee0.js"
   ]
 }
