@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ETHz-CaseStudy-2023/static/css/main.2ac2018a.css",
-    "main.js": "/ETHz-CaseStudy-2023/static/js/main.381602f5.js",
+    "main.css": "/ETHz-CaseStudy-2023/static/css/main.d9cfe724.css",
+    "main.js": "/ETHz-CaseStudy-2023/static/js/main.bd31ffb8.js",
     "static/media/source-sans-pro-regular.ttf": "/ETHz-CaseStudy-2023/static/media/source-sans-pro-regular.45c54810910de71280ab.ttf",
     "static/media/source-sans-pro-semibold.ttf": "/ETHz-CaseStudy-2023/static/media/source-sans-pro-semibold.6ebea875df77b49da05b.ttf",
     "static/media/source-sans-pro-semibolditalic.ttf": "/ETHz-CaseStudy-2023/static/media/source-sans-pro-semibolditalic.522a9ee9b3b2ecbdd367.ttf",
@@ -32,11 +32,11 @@
     "static/media/development.md": "/ETHz-CaseStudy-2023/static/media/development.6e9286248e2e1077f275.md",
     "static/media/triple_product.md": "/ETHz-CaseStudy-2023/static/media/triple_product.2be5b3dcb86bd82179b3.md",
     "static/media/challenges.md": "/ETHz-CaseStudy-2023/static/media/challenges.319fac3ecb260eb9c979.md",
-    "main.2ac2018a.css.map": "/ETHz-CaseStudy-2023/static/css/main.2ac2018a.css.map",
-    "main.381602f5.js.map": "/ETHz-CaseStudy-2023/static/js/main.381602f5.js.map"
+    "main.d9cfe724.css.map": "/ETHz-CaseStudy-2023/static/css/main.d9cfe724.css.map",
+    "main.bd31ffb8.js.map": "/ETHz-CaseStudy-2023/static/js/main.bd31ffb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ac2018a.css",
-    "static/js/main.381602f5.js"
+    "static/css/main.d9cfe724.css",
+    "static/js/main.bd31ffb8.js"
   ]
 }
