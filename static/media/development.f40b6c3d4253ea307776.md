@@ -14,8 +14,8 @@
 Note:
 So far, the scientists have gain inspiring result in the tokamak. The JET from UK could reach a Q of 0.65 and the JT-60 from Japan could reach a Q of 1.2 which means that the net energy is positive!
 
-As you can see in the figure, the for the higher Q it can only last seconds. It's the H-mode. If we want to  build commercial powerplant the Q is supposed to be greater than 50.
+As you can see in the figure, for high Q it can only last 2 seconds. It's the H-mode. If we want to  build commercial powerplant the Q is supposed to be greater than 50.
 
 Here is the development of the fusion devices. The ITER is postponed again. A typical interational project!
 
-I should mention that the progress of CFETR in China is much faster. 
+I should mention that the progress of CFETR in China is much faster. And also the CFETER is much bigger.

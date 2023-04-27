@@ -15,6 +15,6 @@ the higher the energy of plasma, the bigger the volume.
 > https://www.iter.org/construction/SiteFabricationPFcoils
 
 Note:
-The polonoids coils are used to control the section shape of the plasma. As the plasma is heated, the volumne of the plasma will grow bigger. So we use a poloidal coils to control the plasma shape. 
+The poloidal coils are used to control the section shape of the plasma. As the plasma is heated, the volumne of the plasma will grow bigger. So we use a poloidal coils to control the plasma shape. 
 
 The blue part here is the poloidal coils. And the purple one is the toroidal coils. 

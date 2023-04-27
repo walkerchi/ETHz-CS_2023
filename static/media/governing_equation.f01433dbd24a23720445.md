@@ -24,6 +24,7 @@ unstable
 Note:
 There is also a very simple method called pinch.
 Suppose there is a cylinder. 
+
 If the $\theta$ direction of magnetic field is $0$, which means that the plasma move along the $\theta$ direction. It's $\theta$ pinch. The gradient of $p$ is the force applied to the plasma.
 
 If the $z$ direction of magnetic field is $0$, which means that the plasma move along the $z$ axis. It's $z$ pinch.

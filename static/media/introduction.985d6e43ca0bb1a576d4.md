@@ -33,7 +33,7 @@ But at both ends of the solenoid, the particles will flee away.
 So how to solve this problem, 
 Inituitivly, we connect two ends of the solenoids, and the particles seem to be confined inside!
 
-Wait!, there is a magenetic field gradient appears, it's not uniform anymore. An extrac electric field will appear here.
+Wait!, there is a magenetic field gradient appears, it's not uniform anymore. An extra electric field will appear here.
 
 Again, how to solve this? 
 Where, for this problem, we could make the magnetic field to form a mobius shape. In this way, the particles will move at outside for half of the time and inside for half of the time.

@@ -7,5 +7,5 @@
 > https://generalfusion.com/
 
 Note:
-The general fusion proposed a brute force idea to create the fusion environment. It pistons to compress the plasma.
+The general fusion proposed a brute force idea to create the fusion environment. It uses pistons to compress the plasma.
 Inside the chamber, it's the liquid metal. The liquid metal will turn the kinetic energy of particles into heat to dirve a turbine. And they use the field reverse configuration for the plasma injection.

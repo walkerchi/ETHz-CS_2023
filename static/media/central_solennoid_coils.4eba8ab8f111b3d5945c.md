@@ -12,4 +12,4 @@ super conducting
 
 
 Note:
-As for the central solenoid coils. It requires a linear increasing current. That's way the ITER use superconducting solenoid coils. It was used to create the $\theta$ direction rotating matgnetic field(verticle direction electric field). It's the blue part shown in the video.
+As for the central solenoid coils. It requires a linear increasing current. That's way the ITER use superconducting solenoid coils. It will create the $\theta$ direction rotating matgnetic field(verticle direction electric field). It's the blue part shown in the video.
