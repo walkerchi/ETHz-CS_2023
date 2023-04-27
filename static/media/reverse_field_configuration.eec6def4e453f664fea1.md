@@ -14,3 +14,5 @@ self stable torus plasma
 Note:
 The field reverse configuration is discovered 40 years ago in a plasma experiment. It's a kind of self stable torus plasma. The plasma will rotate in two directons and makes itself quite stable in the magnetic field. 
 Here is a video for it.
+
+It's a computer simulation for the field reverse configuration from TAE company. 

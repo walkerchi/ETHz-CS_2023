@@ -6,7 +6,7 @@
 - ...
 
 Note:
-Imagine about the future, what if we successfully make the commercial fusion plant come true. 
+Imagine about the future, what if we successfully make the commercial fusion power plant come true. 
 
 First, the energy will be much much cheaper then you expected. As the fuel is almost infinity. 
 

@@ -7,5 +7,9 @@
 > https://generalfusion.com/
 
 Note:
+There are also some companies focus on the new method of fusion.
+
+For example,
 The general fusion proposed a brute force idea to create the fusion environment. It uses pistons to compress the plasma.
-Inside the chamber, it's the liquid metal. The liquid metal will turn the kinetic energy of particles into heat to dirve a turbine. And they use the field reverse configuration for the plasma injection.
+
+Inside the chamber, is the liquid metal. The liquid metal will turn the kinetic energy of particles into heat to dirve a turbine. And they use the field reverse configuration for the plasma injection.
