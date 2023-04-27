@@ -22,7 +22,7 @@ $$
 $$
 
 Note:
-I'll mainly talk about the tokamak.
+I'll mainly talk about the tokamak in the following talk.
 There are three governing equations for this.
 The first one is the Maxwell equation,
 The second one is the Newton's second law, 
