@@ -12,3 +12,8 @@ $$
 
 
 > https://www.helionenergy.com
+
+
+Note: 
+Another company called the Helion. They drive two field reverse configuration plasma to hit into each other to reach a fusion condition. 
+But they use the deuterium and Helion-3 rather than the Tritium. Because there is no neutron in the product. So they could use the Faraday's law to generate electricity from the fast moving charged particles.

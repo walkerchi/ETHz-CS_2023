@@ -11,3 +11,8 @@ remove heavier ions, transfer fusion energy
 ![0_25.jpg](https://s2.loli.net/2023/04/23/jEmy1a6UnX5KH8P.jpg)  <!-- .element: class="fragment fade-in" -->
 
 </div>
+
+Note:
+To remove the product of the fusion, there is a extra component called divertor. It could remove the heavier ions like Helion. And also it could transfer the kinetic energy from the fusion product into thermal energy. 
+
+The divertor in the ITER looks like this.

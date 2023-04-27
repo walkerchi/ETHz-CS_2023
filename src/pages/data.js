@@ -3,6 +3,7 @@ import IntroIntroMD from "./introduction/introduction.md";
 import IntroMottoMD from "./introduction/motto.md";
 import BackReactionMD from "./background/reactions.md";
 import BackTripleMD from "./background/triple_product.md";
+import BackBindMD from "./background/binding_energy.md";
 import DevTokIntroMD from "./devices/tokamak/introduction.md";
 import DevTokGovEqMD from "./devices/tokamak/governing_equation.md";
 import DevTokDevMD from "./devices/tokamak/development.md";
@@ -17,6 +18,7 @@ import DevGeneralMD from "./devices/general_fusion.md";
 import DevRFCMD from "./devices/reverse_field_configuration.md";
 import ConcChallMD from "./conclusion/challenges.md";
 import ConcRefMD from "./conclusion/references.md";
+import ConcFutMD from "./conclusion/future.md";
 
 const data = [
     {
@@ -46,6 +48,10 @@ const data = [
                 type:"back-triple",
                 target:BackReactionMD
             },
+            {
+                type:"back-bind",
+                target:BackBindMD
+            }
         ]
     },
     {
@@ -114,9 +120,14 @@ const data = [
                 target:ConcChallMD
             },
             {
+                type:"conc-future",
+                target:ConcFutMD
+            },
+            {
                 type:"conc-references",
                 target:ConcRefMD
-            }
+            },
+
         ]
     },
     {

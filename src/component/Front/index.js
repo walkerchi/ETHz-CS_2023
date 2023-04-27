@@ -21,6 +21,20 @@ function QRCode(){
     )
 }
 
+function Note(){
+    return (  
+    <aside class="notes">
+        Welcome to this topic, 
+        my name's Chi Mingyuan.
+
+        Today, I want to talk about the fusion energy.
+
+        Before we start, let's take a look at the bottom of the screen.
+        There are two QR codes, which are the links to my case study websites.
+        You can scan them to see the details of my case studies.
+        On the leftside is the space elevator, and on the rightside is the fusion energy, which I'll give a talk today.
+  </aside>)
+}
 
 export default function FrontPage({markdown}){
 
@@ -39,7 +53,7 @@ export default function FrontPage({markdown}){
             <h1>Fusion Power is closer than you think</h1>
             <center>Chi.Mingyuan</center>
             <QRCode/>
-                
+            <Note/>
     </section>
     )
 }

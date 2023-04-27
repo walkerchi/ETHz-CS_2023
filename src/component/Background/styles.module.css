@@ -13,3 +13,7 @@
     font-style:italic;
     color: #555;
 }
+
+.container img{
+    height:50vh;
+}
