@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ETHz-CaseStudy-2023/static/css/main.82e4dfe7.css",
-    "main.js": "/ETHz-CaseStudy-2023/static/js/main.b95e9ee0.js",
+    "main.js": "/ETHz-CaseStudy-2023/static/js/main.22a94c86.js",
     "static/media/fa-brands-400.svg": "/ETHz-CaseStudy-2023/static/media/fa-brands-400.685e1ce252908370c3e6.svg",
     "static/media/fa-solid-900.svg": "/ETHz-CaseStudy-2023/static/media/fa-solid-900.b50094246aff1f4af1ac.svg",
     "static/media/source-sans-pro-regular.ttf": "/ETHz-CaseStudy-2023/static/media/source-sans-pro-regular.45c54810910de71280ab.ttf",
@@ -33,28 +33,29 @@
     "static/media/blackboard.png": "/ETHz-CaseStudy-2023/static/media/blackboard.22d74019dce760f944fa.png",
     "static/media/fa-regular-400.woff": "/ETHz-CaseStudy-2023/static/media/fa-regular-400.2c5c061cb9b76e803a7f.woff",
     "static/media/fa-regular-400.woff2": "/ETHz-CaseStudy-2023/static/media/fa-regular-400.e1d44a543d05641d1d32.woff2",
+    "static/media/introduction.md": "/ETHz-CaseStudy-2023/static/media/introduction.dbac7f27c344b717f684.md",
+    "static/media/reactions.md": "/ETHz-CaseStudy-2023/static/media/reactions.1cc363424d297ade85f0.md",
     "static/media/references.md": "/ETHz-CaseStudy-2023/static/media/references.c42f232268a86c20ae34.md",
-    "static/media/reactions.md": "/ETHz-CaseStudy-2023/static/media/reactions.d521b1b72db0e5746ad3.md",
+    "static/media/governing_equation.md": "/ETHz-CaseStudy-2023/static/media/governing_equation.9e34b4a5ec448b174b26.md",
+    "static/media/development.md": "/ETHz-CaseStudy-2023/static/media/development.aeca544c3ae66dfb5b4d.md",
     "index.html": "/ETHz-CaseStudy-2023/index.html",
-    "static/media/governing_equation.md": "/ETHz-CaseStudy-2023/static/media/governing_equation.36924bacae1ef9dcef26.md",
-    "static/media/introduction.md": "/ETHz-CaseStudy-2023/static/media/introduction.54c6fd4750a66c527acc.md",
-    "static/media/triple_product.md": "/ETHz-CaseStudy-2023/static/media/triple_product.f89081a963e29d1feb14.md",
-    "static/media/reverse_field_configuration.md": "/ETHz-CaseStudy-2023/static/media/reverse_field_configuration.57b203448197ab651b0c.md",
-    "static/media/central_solennoid_coils.md": "/ETHz-CaseStudy-2023/static/media/central_solennoid_coils.9aa2851567a616dd81cb.md",
-    "static/media/video.md": "/ETHz-CaseStudy-2023/static/media/video.fe195654948f728554a7.md",
-    "static/media/divertor.md": "/ETHz-CaseStudy-2023/static/media/divertor.d545a7d601e6d0da71cd.md",
-    "static/media/poloidal_coils.md": "/ETHz-CaseStudy-2023/static/media/poloidal_coils.d822b56e8d2efe43ce92.md",
-    "static/media/helion.md": "/ETHz-CaseStudy-2023/static/media/helion.f3e9c7abb88c629b43a5.md",
-    "static/media/development.md": "/ETHz-CaseStudy-2023/static/media/development.bbfe6f161a0610c15c44.md",
-    "static/media/general_fusion.md": "/ETHz-CaseStudy-2023/static/media/general_fusion.6f1ab16e33987b58ae67.md",
-    "static/media/motto.md": "/ETHz-CaseStudy-2023/static/media/motto.79df24d138fe66406742.md",
-    "static/media/challenges.md": "/ETHz-CaseStudy-2023/static/media/challenges.55b8681f743234c577d5.md",
-    "static/media/binding_energy.md": "/ETHz-CaseStudy-2023/static/media/binding_energy.6d6f6ebc42fd8105cdc3.md",
+    "static/media/motto.md": "/ETHz-CaseStudy-2023/static/media/motto.6a101ce8817d239b703b.md",
+    "static/media/central_solennoid_coils.md": "/ETHz-CaseStudy-2023/static/media/central_solennoid_coils.5a4ccadc4b92fd70dd12.md",
+    "static/media/helion.md": "/ETHz-CaseStudy-2023/static/media/helion.6931afb981ce0958049e.md",
+    "static/media/reverse_field_configuration.md": "/ETHz-CaseStudy-2023/static/media/reverse_field_configuration.480dafc8c8c525a9b2c1.md",
+    "static/media/poloidal_coils.md": "/ETHz-CaseStudy-2023/static/media/poloidal_coils.31236af0de6e74f842d9.md",
+    "static/media/divertor.md": "/ETHz-CaseStudy-2023/static/media/divertor.6bf20ac866884c627fa1.md",
+    "static/media/challenges.md": "/ETHz-CaseStudy-2023/static/media/challenges.239e015cfb414e70a77d.md",
+    "static/media/general_fusion.md": "/ETHz-CaseStudy-2023/static/media/general_fusion.608079302df5dee1ce1b.md",
+    "static/media/video.md": "/ETHz-CaseStudy-2023/static/media/video.2cf9b15410531fa9a23e.md",
+    "static/media/triple_product.md": "/ETHz-CaseStudy-2023/static/media/triple_product.ec8c50ea41c480c882d2.md",
+    "static/media/future.md": "/ETHz-CaseStudy-2023/static/media/future.16c1157ea5a621ed3e47.md",
+    "static/media/binding_energy.md": "/ETHz-CaseStudy-2023/static/media/binding_energy.4c9c44356794dee4b37f.md",
     "main.82e4dfe7.css.map": "/ETHz-CaseStudy-2023/static/css/main.82e4dfe7.css.map",
-    "main.b95e9ee0.js.map": "/ETHz-CaseStudy-2023/static/js/main.b95e9ee0.js.map"
+    "main.22a94c86.js.map": "/ETHz-CaseStudy-2023/static/js/main.22a94c86.js.map"
   },
   "entrypoints": [
     "static/css/main.82e4dfe7.css",
-    "static/js/main.b95e9ee0.js"
+    "static/js/main.22a94c86.js"
   ]
 }

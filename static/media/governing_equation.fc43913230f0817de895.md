@@ -21,3 +21,10 @@ $$
 \frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \vec{v}) = 0
 $$
 
+Note:
+I'll mainly talk about the tokamak.
+There are three governing equations for this.
+The first one is the Maxwell equation,
+The second one is the Newton's second law, 
+the last one is the continuity equation.
+

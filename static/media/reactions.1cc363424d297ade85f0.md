@@ -9,3 +9,10 @@
 | $\ce{2T -> He_4 + 2n}$                                       | $2\times 10^{23}$      | $11.3$        |
 | $\ce{p + B_{11}-> 3He_4}$                                    | $4\times10^{24}$       | $8.682$       |
 | $\ce{p + Li_6 -> He_4 + He_3}$                               | $1.25\times10^{25}$    | $4$           |
+
+
+Note:
+Here are some fusion reaction examples. 
+The Deuterium and Tritium reaction requires the lowest triple-product but produce a great amount of energy. 
+
+As you can see, the heavier the atom, the less energy the reation will give off and also requires higher triple-product.
